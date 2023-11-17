@@ -134,7 +134,7 @@ for (let i = 1; i < array4.length; i++) {
   }
 }
 
-document.write("El número más grande en el array es: "+maximo+"<br>"));
+document.write("El número más grande en el array es: "+maximo+"<br>");
 
 document.write("EJERCICIO 12" + "<br>")
 
@@ -148,7 +148,7 @@ for (let i = 1; i < array5.length; i++) {
   }
 }
 
-document.write("El número más chico en el array es: "+minimo+"<br>"));
+document.write("El número más chico en el array es: "+minimo+"<br>");
 
 console.log("EJERCICIO 13" + "<br>")
 
