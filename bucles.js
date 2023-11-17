@@ -210,6 +210,7 @@ if (puntos_jugador1 > puntos_jugador2) {
 
 
 console.log("EJERCICIO 14" + "<br>")
+
 for (let i = 1; i <= 5; i++) {
     let asteriscos = "";
 
