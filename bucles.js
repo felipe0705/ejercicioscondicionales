@@ -134,7 +134,7 @@ for (let i = 1; i < array4.length; i++) {
   }
 }
 
-document.write("El número más grande en el array es: "+maximo);
+document.write("El número más grande en el array es: "+maximo+"<br>"));
 
 document.write("EJERCICIO 12" + "<br>")
 
@@ -148,9 +148,9 @@ for (let i = 1; i < array5.length; i++) {
   }
 }
 
-document.write("El número más chico en el array es: "+minimo);
+document.write("El número más chico en el array es: "+minimo+"<br>"));
 
-document.write("EJERCICIO 13" + "<br>")
+console.log("EJERCICIO 13" + "<br>")
 
 
 let jugador1 = prompt("Ingrese el nombre primer jugador: ");
@@ -209,7 +209,7 @@ if (puntos_jugador1 > puntos_jugador2) {
 }
 
 
-document.write("EJERCICIO 14" + "<br>")
+console.log("EJERCICIO 14" + "<br>")
 for (let i = 1; i <= 5; i++) {
     let asteriscos = "";
 
@@ -221,7 +221,7 @@ for (let i = 1; i <= 5; i++) {
 }
 
 
-document.write("EJERCICIO 15" + "<br>")
+console.log("EJERCICIO 15" + "<br>")
 
 
 for (let i = 5; i >= 1; i--) {
